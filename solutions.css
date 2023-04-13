@@ -1,0 +1,55 @@
+---
+layout:   page
+title:    noBackend Solutions
+tab:      solutions
+---
+
+<h2>Go noBackend today!</h2>
+
+<p>
+  A noBackend solution should provide a simple frontend
+  API for typical backend tasks, but at the minimum it
+  should provide methods for authentication and data
+  persistence / synchronization.
+</p>
+
+<p>
+  Here is a loose list of some solutions we'd recommend
+  you have a look at. A proper comparison table of
+  existing noBackend solutions is coming soon.
+</p>
+
+<ul>
+  <li><a href="http://backendless.com/">Backendless</a></li>
+  <li><a href="http://deployd.com/">deployd</a></li>
+  <li><a href="https://www.firebase.com/">Firebase</a></li>
+  <li><a href="http://hood.ie/">Hoodie</a></li>
+  <li><a href="http://www.kinvey.com/">Kinvey</a></li>
+  <li><a href="http://remotestorage.io/">remoteStorage</a></li>
+  <li><a href="http://sockethub.org/">Sockethub</a></li>
+  <li><a href="http://stamplay.com/">Stamplay</a></li>
+  <li><a href="http://solidproject.org/">Solid</a></li>
+</ul>
+
+<p>
+  See also: <a href="http://unhosted.org">unhosted.org</a>
+</p>
+
+<div class="box">
+  <h3>
+    Want to add another noBackend solution?
+  </h3>
+
+  <p>
+    We get quite some suggestions for more providers or
+    solutions to add to our list. First of all, please
+    be patient, we give our best to keep up!
+  </p>
+
+  <p>
+    But before adding more solutions to the list, we
+    kindly ask you to add an implementation of our
+    <a href="http://invoice.nobackend.org/">example app</a>, as well as a link to a proper
+    documentation of the solutions frontend API.
+  </p>
+</div>

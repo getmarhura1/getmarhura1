@@ -1,0 +1,87 @@
+---
+layout:   page
+title:    noBackend Dreamcode
+tab:      dreamcode
+---
+
+<h2>Come, dream code with us!</h2>
+
+<p>
+  Forget all the constraints of today's browsers.
+  Then write down the code of your dreams for
+  all the tasks you need to build your app.
+  This is dreamcode. Here's another example:
+</p>
+
+<div class="dreamcode">
+  <article>
+    <a href="https://gist.github.com/gr2m/5463426">
+      <h3>User Accounts</h3>
+      <p>
+        Imagine the typical backend tasks for user
+        authentication would exist right in the browser.
+      </p>
+    </a>
+  </article>
+  <article>
+    <a href="https://gist.github.com/gr2m/5463475">
+      <h3>Data Store</h3>
+      <p>
+        Imagine saving and finding user data would just work,
+        persistent and synchronised across devices.
+      </p>
+    </a>
+  </article>
+  <article>
+    <a href="https://gist.github.com/gr2m/5463552">
+      <h3>Emails</h3>
+      <p>
+        Imagine you could send emails with JavaScript,
+        multipart, with attachments?
+      </p>
+    </a>
+  </article>
+  <article>
+    <a href="https://gist.github.com/gr2m/5463525">
+      <h3>Sharing</h3>
+      <p>
+        Imagine you could share user data by providing
+        read or write access to specific users.
+      </p>
+    </a>
+  </article>
+  <article>
+    <a href="https://gist.github.com/gr2m/5463605">
+      <h3>File Conversions</h3>
+      <p>
+        Imagine you could convert all kind of things to
+        all kind of different things, e.g. taking 
+        a screenshot of a dom element or converting 
+        another website to a screenshot
+      </p>
+    </a>
+  </article>
+  <article>
+    <a href="https://gist.github.com/gr2m/5463675">
+      <h3>Payments</h3>
+      <p>
+        Imagine you could accept purchases with pure JavaScript in the browser.
+      </p>
+    </a>
+  </article>
+  <article>
+    <a href="https://gist.github.com/gr2m/5465679">
+      <h3>Make Coffee. Or Tea.</h3>
+      <p>
+        Imagine you could control other devices with
+        a simple JavaScript API, right from your browser.
+      </p>
+    </a>
+  </article>
+</div><!-- /.dreamcode -->
+
+<p>
+  We use <a href="https://gist.github.com/">GitHub Gist</a>
+  to dream code and to discuss it. To add your dreamcode,
+  simply create a gist and let us know the URL.
+</p>
